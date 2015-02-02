@@ -2,6 +2,6 @@ Polymorphic/Metamorphic Shellcode Detection Using Static Binary Translation/Rewr
 
 Ugly Prototype, ***SUBJECT TO HEAVILY CHANGES***
 
-Working on paper...
+Working on progress...
 
 /Shahriyar
